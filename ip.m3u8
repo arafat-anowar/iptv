@@ -76,6 +76,8 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 KIDS CHANNELS
 #EXTINF:-1 tvg-name="Nick", Nick
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
+#EXTINF:-1 tvg-name="Nick", Hungama
+http://redforce.live:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=325c16173e38e988bb319df992040ea610e549f9-daf4fd7d21396c4515c290f243f54ede-1746819877-1746809077
 
 #EXTINF:-1, HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV2/chunks_dvr.m3u8
