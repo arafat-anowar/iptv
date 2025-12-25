@@ -81,6 +81,8 @@ http://redforce.live:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=325c16173e38e988bb
 
 #EXTINF:-1, HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV2/chunks_dvr.m3u8
+#EXTINF:-1, Disney India
+http://66.102.120.18:8000/play/a013/index.m3u8
 
 
 
