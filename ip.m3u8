@@ -5,4 +5,5 @@ KIDS CHANNELS
 #EXTINF:-1, Disney India
 http://66.102.120.18:8000/play/a013/index.m3u8
 
-
+#EXTINF:-1, ARY Digital
+http://66.102.120.18:8000/play/a030/index.m3u8
