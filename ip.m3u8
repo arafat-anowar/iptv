@@ -169,7 +169,8 @@ http://103.229.254.25:7001/play/a07w/index.m3u8
 
 #EXTINF:-1 tvg-id="ary-zindagi" tvg-name="ARY Zindagi" tvg-logo="https://logo.clearbit.com/aryzindagi.tv" group-title="Pakistani",ARY Zindagi
 http://103.229.254.25:7001/play/a07u/index.m3u8
-
+#EXTINF:-1 tvg-id="hum-tv" tvg-name="HUM TV" tvg-logo="https://logo.clearbit.com/aryzindagi.tv" group-title="Pakistani",HUM TV
+https://edge2.roarzone.info:8444/roarzone/edge3/hum/index.m3u8?token=492afcf1d9264b86615ec7b19a71b2efe97f5bdf-31d8ea5201cc2654f5c14a10f8d57c48-1770966625-1770963025
 
 
 
