@@ -170,8 +170,7 @@ http://103.229.254.25:7001/play/a07w/index.m3u8
 #EXTINF:-1 tvg-id="ary-zindagi" tvg-name="ARY Zindagi" tvg-logo="https://logo.clearbit.com/aryzindagi.tv" group-title="Pakistani",ARY Zindagi
 http://103.229.254.25:7001/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="hum-tv" tvg-name="HUM TV" tvg-logo="https://logo.clearbit.com/aryzindagi.tv" group-title="Pakistani",HUM TV
-https://edge2.roarzone.info:8444/roarzone/edge3/hum/index.m3u8?token=492afcf1d9264b86615ec7b19a71b2efe97f5bdf-31d8ea5201cc2654f5c14a10f8d57c48-1770966625-1770963025
-
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 
 
@@ -198,3 +197,4 @@ http://103.229.254.25:7001/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-hd" tvg-name="Discovery HD" tvg-logo="https://logo.clearbit.com/discovery.com" group-title="Documentary",Local TV
 http://103.183.63.69:8080/hls/test.m3u8
+
