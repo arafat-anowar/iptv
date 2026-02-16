@@ -164,6 +164,9 @@ http://103.229.254.25:7001/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-logo="https://logo.clearbit.com/zee.com" group-title="Hindi Movies",Zee Bollywood
 http://103.229.254.25:7001/play/a0dk/index.m3u8
 
+#EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-logo="https://logo.clearbit.com/zee.com" group-title="Hindi Movies",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
 #EXTINF:-1 tvg-id="ary-digital" tvg-name="ARY Digital" tvg-logo="https://logo.clearbit.com/arydigital.tv" group-title="Pakistani",ARY Digital
 http://103.229.254.25:7001/play/a07w/index.m3u8
 
@@ -197,4 +200,5 @@ http://103.229.254.25:7001/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-hd" tvg-name="Discovery HD" tvg-logo="https://logo.clearbit.com/discovery.com" group-title="Documentary",Local TV
 http://103.183.63.69:8080/hls/test.m3u8
+
 
