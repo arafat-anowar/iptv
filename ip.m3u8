@@ -1,6 +1,9 @@
 #EXTM3U
 
+
+
 #################################### # 🇧🇩 BANGLADESH CHANNELS (1-45) ####################################
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="Sangsad" group-title="Bangladesh",Sangsad
 http://103.229.254.25:7001/play/a069/index.m3u8
@@ -62,77 +65,77 @@ http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Channel S" group-title="Bangladesh",Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-name="Channel 9" group-title="Bangladesh",Channel 9
-http://103.229.254.25:7001/play/a05j/index.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-name="Ekushe TV" group-title="Bangladesh",Ekushe TV
+#EXTINF:-1 tvg-id="21" tvg-name="Ekushe TV" group-title="Bangladesh",Ekushe TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-name="G TV" group-title="Bangladesh",G TV
-https://backend.plusbox.tv/GaziTVHD/tracks-a1/index.fmp4.m3u8?token=93e265ebd6c596da889273560222182067ecbdbe-f3a86d340e879de2faf6dccdfa6f3759-1771451680-1771440880
-
-#EXTINF:-1 tvg-id="24" tvg-name="Global TV" group-title="Bangladesh",Global TV
+#EXTINF:-1 tvg-id="22" tvg-name="Global TV" group-title="Bangladesh",Global TV
 http://103.229.254.25:7001/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-name="Maasranga" group-title="Bangladesh",Maasranga
+#EXTINF:-1 tvg-id="23" tvg-name="Maasranga" group-title="Bangladesh",Maasranga
 http://103.229.254.25:7001/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-name="Mohona TV" group-title="Bangladesh",Mohona TV
+#EXTINF:-1 tvg-id="24" tvg-name="Mohona TV" group-title="Bangladesh",Mohona TV
 http://103.229.254.25:7001/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="My TV" group-title="Bangladesh",My TV
+#EXTINF:-1 tvg-id="25" tvg-name="My TV" group-title="Bangladesh",My TV
 http://103.229.254.25:7001/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="Nagorik TV" group-title="Bangladesh",Nagorik TV
+#EXTINF:-1 tvg-id="26" tvg-name="Nagorik TV" group-title="Bangladesh",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="News 24" group-title="Bangladesh",News 24
+#EXTINF:-1 tvg-id="27" tvg-name="News 24" group-title="Bangladesh",News 24
 http://103.229.254.25:7001/play/a06i/index.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="Nexus TV" group-title="Bangladesh",Nexus TV
+#EXTINF:-1 tvg-id="28" tvg-name="Nexus TV" group-title="Bangladesh",Nexus TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="RTV" group-title="Bangladesh",RTV
+#EXTINF:-1 tvg-id="29" tvg-name="RTV" group-title="Bangladesh",RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-name="Sa TV" group-title="Bangladesh",Sa TV
+#EXTINF:-1 tvg-id="30" tvg-name="Sa TV" group-title="Bangladesh",Sa TV
 http://103.229.254.25:7001/play/a062/index.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="Movie Bangla" group-title="Bangladesh",Movie Bangla
+#EXTINF:-1 tvg-id="31" tvg-name="Movie Bangla" group-title="Bangladesh",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="Me TV" group-title="Bangladesh",Me TV
-https://iptvbd.live/metv1080/1080.m3u8
-
-#EXTINF:-1 tvg-id="35" tvg-name="Deshi TV" group-title="Bangladesh",Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="36" tvg-name="IB TV USA" group-title="Bangladesh",IB TV USA
-http://208.86.19.13:81/509.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-name="DBC News" group-title="Bangladesh",DBC News
+#EXTINF:-1 tvg-id="32" tvg-name="DBC News" group-title="Bangladesh",DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-name="Green TV" group-title="Bangladesh",Green TV
+#EXTINF:-1 tvg-id="33" tvg-name="Deshi TV" group-title="Bangladesh",Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="Green TV" group-title="Bangladesh",Green TV
 https://app.ncare.live/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-name="SRK TV" group-title="Bangladesh",SRK TV
+#EXTINF:-1 tvg-id="35" tvg-name="IB TV USA" group-title="Bangladesh",IB TV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="Me TV" group-title="Bangladesh",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="SRK TV" group-title="Bangladesh",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-name="Channel A1" group-title="Bangladesh",Channel A1
+#EXTINF:-1 tvg-id="38" tvg-name="Channel A1" group-title="Bangladesh",Channel A1
 https://sonamul3535.vercel.app/Channels-A1.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="Khusbo Bangla" group-title="Bangladesh",Khusbo Bangla
+#EXTINF:-1 tvg-id="39" tvg-name="Khusbo Bangla" group-title="Bangladesh",Khusbo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="Probasi TV" group-title="Bangladesh",Probasi TV
+#EXTINF:-1 tvg-id="40" tvg-name="Probasi TV" group-title="Bangladesh",Probasi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="T Sports" group-title="Bangladesh",T Sports
-https://backend.plusbox.tv/TSports/tracks-a1/index.fmp4.m3u8?token=092bacc73734cb233d3afb3da63d81a20179fc9f-f14bd2967c10537a0758b41066da1894-1771451952-1771441152
+#EXTINF:-1 tvg-id="41" tvg-name="Demo 1" group-title="Reserved",Demo 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="Madani TV" group-title="Bangladesh",Madani TV
-http://redforce.live:8082/MADANI.TV.HD/tracks-v1a1/mono.m3u8?token=b75d9e383b984681cc9a4df9bdf445280756a4fe-632260867c267fae8e48f145d1a75aaa-1756090319-1756079519
+#EXTINF:-1 tvg-id="42" tvg-name="Demo 2" group-title="Reserved",Demo 2
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-name="Peace TV" group-title="Bangladesh",Peace TV
-http://redforce.live:8082/PEACE.TV.BANGLA.HD/tracks-v1a1/mono.m3u8?token=cdac0791986eb79fb67185e0a7e2d56934d3210c-e84b7171948e82da3c00ac950fca35ca-1756090349-1756079549
+#EXTINF:-1 tvg-id="43" tvg-name="Demo 3" group-title="Reserved",Demo 3
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Demo 4" group-title="Reserved",Demo 4
+https://mojenetwork.com/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="Demo 5" group-title="Reserved",Demo 5
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
