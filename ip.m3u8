@@ -2,141 +2,164 @@
 
 
 
-#################################### # 🇧🇩 BANGLADESH CHANNELS (1-45) ####################################
+#################################### # BANGLADESH CHANNELS (1-45) ####################################
+#EXTINF:-1 tvg-chno="1" tvg-name="Sangsad" group-title="Bangladeshi",Sangsad
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 
+#EXTINF:-1 tvg-chno="2" tvg-name="BTV" group-title="Bangladeshi",BTV
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Sangsad" group-title="Bangladesh",Sangsad
-http://103.229.254.25:7001/play/a069/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-name="BTV News" group-title="Bangladeshi",BTV News
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="BTV" group-title="Bangladesh",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-name="BTV Chattogram" group-title="Bangladeshi",BTV Chattogram
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="BTV Chattogram" group-title="Bangladesh",BTV Chattogram
-http://103.229.254.25:7001/play/a061/index.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="BTV News" group-title="Bangladesh",BTV News
-http://103.229.254.25:7001/play/a065/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="Asian TV" group-title="Bangladesh",Asian TV
-http://103.229.254.25:7001/play/a063/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
+#EXTINF:-1 tvg-chno="5" tvg-name="Jamuna TV" group-title="Bangladeshi",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
+#EXTINF:-1 tvg-chno="6" tvg-name="Somoy TV" group-title="Bangladeshi",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name="Channel 24" group-title="Bangladesh",Channel 24
+#EXTINF:-1 tvg-chno="7" tvg-name="Channel 24" group-title="Bangladeshi",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
+#EXTINF:-1 tvg-chno="8" tvg-name="Independent TV" group-title="Bangladeshi",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="ATN News" group-title="Bangladesh",ATN News
+#EXTINF:-1 tvg-chno="9" tvg-name="Ekattor TV" group-title="Bangladeshi",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-name="ATN News" group-title="Bangladeshi",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="ATN Bangla" group-title="Bangladesh",ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-name="News 24" group-title="Bangladeshi",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="NTV" group-title="Bangladesh",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-name="Star News" group-title="Bangladeshi",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="Banglavision" group-title="Bangladesh",Banglavision
+#EXTINF:-1 tvg-chno="13" tvg-name="Deepto TV" group-title="Bangladeshi",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-name="Ekhon TV" group-title="Bangladeshi",Ekhon TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-name="Banglavision" group-title="Bangladeshi",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="Channel I" group-title="Bangladesh",Channel I
+#EXTINF:-1 tvg-chno="16" tvg-name="NTV" group-title="Bangladeshi",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-name="Sa TV" group-title="Bangladeshi",Sa TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-name="ATN Bangla" group-title="Bangladeshi",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-name="Channel I" group-title="Bangladeshi",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="Deepto TV" group-title="Bangladesh",Deepto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-name="DBC News" group-title="Bangladeshi",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="Duronto TV" group-title="Bangladesh",Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-name="Channel 9" group-title="Bangladeshi",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
+#EXTINF:-1 tvg-chno="22" tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
+http://103.229.254.25:7001/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-name="Bangladeshi" group-title="Bangladeshi",Bangladeshi
 http://103.229.254.25:7001/play/a06c/index.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-name="Bijoy TV" group-title="Bangladesh",Bijoy TV
+#EXTINF:-1 tvg-chno="24" tvg-name="Bijoy TV" group-title="Bangladeshi",Bijoy TV
 http://103.229.254.25:7001/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="Channel S" group-title="Bangladesh",Channel S
+#EXTINF:-1 tvg-chno="25" tvg-name="Channel S" group-title="Bangladeshi",Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-name="Ekushe TV" group-title="Bangladesh",Ekushe TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-name="Global TV" group-title="Bangladesh",Global TV
+#EXTINF:-1 tvg-chno="26" tvg-name="Global TV" group-title="Bangladeshi",Global TV
 http://103.229.254.25:7001/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-name="Maasranga" group-title="Bangladesh",Maasranga
+#EXTINF:-1 tvg-chno="27" tvg-name="Maasranga" group-title="Bangladeshi",Maasranga
 http://103.229.254.25:7001/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-name="Mohona TV" group-title="Bangladesh",Mohona TV
+#EXTINF:-1 tvg-chno="28" tvg-name="Mohona TV" group-title="Bangladeshi",Mohona TV
 http://103.229.254.25:7001/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-name="My TV" group-title="Bangladesh",My TV
+#EXTINF:-1 tvg-chno="29" tvg-name="My TV" group-title="Bangladeshi",My TV
 http://103.229.254.25:7001/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-name="Nagorik TV" group-title="Bangladesh",Nagorik TV
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-name="News 24" group-title="Bangladesh",News 24
-http://103.229.254.25:7001/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-name="Nexus TV" group-title="Bangladesh",Nexus TV
+#EXTINF:-1 tvg-chno="30" tvg-name="Nexus TV" group-title="Bangladeshi",Nexus TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="RTV" group-title="Bangladesh",RTV
+#EXTINF:-1 tvg-chno="31" tvg-name="RTV" group-title="Bangladeshi",RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="Sa TV" group-title="Bangladesh",Sa TV
-http://103.229.254.25:7001/play/a062/index.m3u8
-
-#EXTINF:-1 tvg-id="31" tvg-name="Movie Bangla" group-title="Bangladesh",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-
-#EXTINF:-1 tvg-id="32" tvg-name="DBC News" group-title="Bangladesh",DBC News
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Deshi TV" group-title="Bangladesh",Deshi TV
+#EXTINF:-1 tvg-chno="32" tvg-name="Deshi TV" group-title="Bangladeshi",Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="Green TV" group-title="Bangladesh",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="35" tvg-name="IB TV USA" group-title="Bangladesh",IB TV USA
+#EXTINF:-1 tvg-chno="33" tvg-name="IB TV USA" group-title="Bangladeshi",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="36" tvg-name="Me TV" group-title="Bangladesh",Me TV
-https://iptvbd.live/metv1080/1080.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-name="SRK TV" group-title="Bangladesh",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="38" tvg-name="Channel A1" group-title="Bangladesh",Channel A1
-https://sonamul3535.vercel.app/Channels-A1.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-name="Khusbo Bangla" group-title="Bangladesh",Khusbo Bangla
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-
-#EXTINF:-1 tvg-id="40" tvg-name="Probasi TV" group-title="Bangladesh",Probasi TV
+#EXTINF:-1 tvg-chno="34" tvg-name="Probasi TV" group-title="Bangladeshi",Probasi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="Demo 1" group-title="Reserved",Demo 1
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-name="Ekushe TV" group-title="Bangladeshi",Ekushe TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="Demo 2" group-title="Reserved",Demo 2
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-name="Duronto TV" group-title="Bangladeshi",Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="Demo 3" group-title="Reserved",Demo 3
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-name="Movie Bangla" group-title="Bangladeshi",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="Demo 4" group-title="Reserved",Demo 4
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-name="Green TV" group-title="Bangladeshi",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-name="Demo 5" group-title="Reserved",Demo 5
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-name="Me TV" group-title="Bangladeshi",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-name="SRK TV" group-title="Bangladeshi",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-name="Channel A1" group-title="Bangladeshi",Channel A1
+https://sonamul3535.vercel.app/Channels-A1.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-name="Khusbo Bangla" group-title="Bangladeshi",Khusbo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-name="Rajdhani TV" group-title="Bangladeshi",Rajdhani TV
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-name="Nagorik TV" group-title="Bangladeshi",Nagorik TV
+http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=406a28cb63b245aa6dedc87254b5daf0f6392c38-aa315ee363fef0be7d62918e4aeb84cd-1756100348-1756089548
+
+#EXTINF:-1 tvg-chno="45" tvg-name="T Sports" group-title="Bangladeshi",T Sports
+http://redforce.live:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=775ef2a267db8535ed97560eb60b8be3b57d2122-367718d19a61c218f20b82d421b3968a-1756100450-1756089650
+
+
+
+#################################### # PAKISTANI CHANNELS (46-52) ####################################
+#EXTINF:-1 tvg-chno="46" tvg-name="HUM TV" group-title="Pakistani",HUM TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-name="Green Entertainment" group-title="Pakistani",Green Entertainment
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-name="Geo Entertainment" group-title="Pakistani",Geo Entertainment
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-name="AAJ Entertainment" group-title="Pakistani",AAJ Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-name="ARY Digital" group-title="Pakistani",ARY Digital
+http://103.229.254.25:7001/play/a07w/index.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-name="ARY Zindagi" group-title="Pakistani",ARY Zindagi
+http://103.229.254.25:7001/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-name="ARY News" group-title="Pakistani",ARY News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
 
