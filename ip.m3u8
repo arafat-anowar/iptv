@@ -1,146 +1,141 @@
 #EXTM3U
 
-####################################
-# 🇧🇩 BANGLADESH CHANNELS (1-45)
-####################################
+#################################### # 🇧🇩 BANGLADESH CHANNELS (1-45) ####################################
 
-#EXTINF:-1 tvg-id="1" tvg-name="Sangsad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Sangsad_Television_Emblem.svg" group-title="Bangladesh",Sangsad
+#EXTINF:-1 tvg-id="1" tvg-name="Sangsad" group-title="Bangladesh",Sangsad
 http://103.229.254.25:7001/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Bangladesh",BTV
+#EXTINF:-1 tvg-id="2" tvg-name="BTV" group-title="Bangladesh",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="BTV Chattogram" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqhS3cTU6GPVhNDTUtrDkr33CHT8kQRIHKQ&s" group-title="Bangladesh",BTV Chattogram
+#EXTINF:-1 tvg-id="3" tvg-name="BTV Chattogram" group-title="Bangladesh",BTV Chattogram
 http://103.229.254.25:7001/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="BTV News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8c2to1SEat230-mCcJpCIlfHt1eNT0B_mQ&s" group-title="Bangladesh",BTV News
+#EXTINF:-1 tvg-id="4" tvg-name="BTV News" group-title="Bangladesh",BTV News
 http://103.229.254.25:7001/play/a065/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="Asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MgegmMDhYqe4_cKj3UbbGNL5C2a-GpjnWg&s" group-title="Bangladesh",Asian TV
+#EXTINF:-1 tvg-id="5" tvg-name="Asian TV" group-title="Bangladesh",Asian TV
 http://103.229.254.25:7001/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="Jamuna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkJNZfEIcS3rS5gjnyLyFcBEucIXcpxbqXw&s" group-title="Bangladesh",Jamuna TV
+#EXTINF:-1 tvg-id="6" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1280px-SOMOY_TV_Logo.svg.png" group-title="Bangladesh",Somoy TV
+#EXTINF:-1 tvg-id="7" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="Ekattor TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="Bangladesh",Ekattor TV
+#EXTINF:-1 tvg-id="8" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLymP7fdHxMXDtqUVBUqhF8O_BOntG_bsMPg&s" group-title="Bangladesh",Channel 24
+#EXTINF:-1 tvg-id="9" tvg-name="Channel 24" group-title="Bangladesh",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="Bangladesh",Independent TV
+#EXTINF:-1 tvg-id="10" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/960px-ATN_News_logo.svg.png" group-title="Bangladesh",ATN News
+#EXTINF:-1 tvg-id="11" tvg-name="ATN News" group-title="Bangladesh",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1280px-Logo_of_ATN_Bangla.svg.png" group-title="Bangladesh",ATN Bangla
+#EXTINF:-1 tvg-id="12" tvg-name="ATN Bangla" group-title="Bangladesh",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="NTV" tvg-logo="https://images.seeklogo.com/logo-png/39/2/ntv-channel-logo-png_seeklogo-396286.png" group-title="Bangladesh",NTV
+#EXTINF:-1 tvg-id="13" tvg-name="NTV" group-title="Bangladesh",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="Banglavision" tvg-logo="https://images.seeklogo.com/logo-png/51/1/bangla-vision-tv-channel-logo-png_seeklogo-513051.png" group-title="Bangladesh",Banglavision
+#EXTINF:-1 tvg-id="14" tvg-name="Banglavision" group-title="Bangladesh",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="Channel I" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDZsPsPGp3Za5iMiQHPZtzQxvm3MOQ3F0rQ&s" group-title="Bangladesh",Channel I
+#EXTINF:-1 tvg-id="15" tvg-name="Channel I" group-title="Bangladesh",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="Deepto TV" tvg-logo="https://images.seeklogo.com/logo-png/51/2/deepto-tv-logo-png_seeklogo-513994.png" group-title="Bangladesh",Deepto TV
+#EXTINF:-1 tvg-id="16" tvg-name="Deepto TV" group-title="Bangladesh",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="Duronto TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s" group-title="Bangladesh",Duronto TV
+#EXTINF:-1 tvg-id="17" tvg-name="Duronto TV" group-title="Bangladesh",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bangla_TV_logo.svg/250px-Bangla_TV_logo.svg.png?20250120075616" group-title="Bangladesh",Bangla TV
+#EXTINF:-1 tvg-id="18" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
 http://103.229.254.25:7001/play/a06c/index.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-name="Bijoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladesh",Bijoy TV
+#EXTINF:-1 tvg-id="19" tvg-name="Bijoy TV" group-title="Bangladesh",Bijoy TV
 http://103.229.254.25:7001/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="Channel S" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Channel_S_Bangladesh_Logo.png/250px-Channel_S_Bangladesh_Logo.png" group-title="Bangladesh",Channel S
+#EXTINF:-1 tvg-id="20" tvg-name="Channel S" group-title="Bangladesh",Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-name="Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTXdubjDoxnfdkd-qndEY7gqj2XBZYY5FsnA&s" group-title="Bangladesh",Channel 9
+#EXTINF:-1 tvg-id="21" tvg-name="Channel 9" group-title="Bangladesh",Channel 9
 http://103.229.254.25:7001/play/a05j/index.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-name="Ekushe TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqasoyU0ErNeN-_9wdX_utw99qIxhkZaOWhA&s" group-title="Bangladesh",Ekushe TV
-http://103.229.254.25:7001/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="Ekushe TV" group-title="Bangladesh",Ekushe TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-name="G TV" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",G TV
-https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="G TV" group-title="Bangladesh",G TV
+https://backend.plusbox.tv/GaziTVHD/tracks-a1/index.fmp4.m3u8?token=93e265ebd6c596da889273560222182067ecbdbe-f3a86d340e879de2faf6dccdfa6f3759-1771451680-1771440880
 
-#EXTINF:-1 tvg-id="24" tvg-name="Global TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydSsVIK8husom4-T1Oyj1L0GJ0FrDR5T1ow&s" group-title="Bangladesh",Global TV
+#EXTINF:-1 tvg-id="24" tvg-name="Global TV" group-title="Bangladesh",Global TV
 http://103.229.254.25:7001/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-name="Maasranga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvSsoq-TCsc5BU0zoDCbrXy4N38XdySykpg&s" group-title="Bangladesh",Maasranga
+#EXTINF:-1 tvg-id="25" tvg-name="Maasranga" group-title="Bangladesh",Maasranga
 http://103.229.254.25:7001/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-name="Mohona TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/250px-Mohona_tv_Logo.svg.png" group-title="Bangladesh",Mohona TV
+#EXTINF:-1 tvg-id="26" tvg-name="Mohona TV" group-title="Bangladesh",Mohona TV
 http://103.229.254.25:7001/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="My TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8KNmT5NOa-v7vbIPWOVXl4jDjzXDw6DrlQ&s" group-title="Bangladesh",My TV
+#EXTINF:-1 tvg-id="27" tvg-name="My TV" group-title="Bangladesh",My TV
 http://103.229.254.25:7001/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Logo_of_Nagorik_TV.svg" group-title="Bangladesh",Nagorik TV
+#EXTINF:-1 tvg-id="28" tvg-name="Nagorik TV" group-title="Bangladesh",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/250px-News24logo%28BD%29.jpg" group-title="Bangladesh",News 24
+#EXTINF:-1 tvg-id="29" tvg-name="News 24" group-title="Bangladesh",News 24
 http://103.229.254.25:7001/play/a06i/index.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="Nexus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVqD7TdaRT96-e7sp1S-SphXZNrBia7fQPg&s" group-title="Bangladesh",Nexus TV
+#EXTINF:-1 tvg-id="30" tvg-name="Nexus TV" group-title="Bangladesh",Nexus TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KGkFJdR3wrRP7wAIpDFs-LcP8nBZf0iqRQ&s" group-title="Bangladesh",RTV
+#EXTINF:-1 tvg-id="31" tvg-name="RTV" group-title="Bangladesh",RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-name="Sa TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPV50PQ-faa1HdygPbWLAk82YZdPMo_lHHg&s" group-title="Bangladesh",Sa TV
+#EXTINF:-1 tvg-id="32" tvg-name="Sa TV" group-title="Bangladesh",Sa TV
 http://103.229.254.25:7001/play/a062/index.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="Movie Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiSK0VgO0JQIMxe2fnE8NAFWegKPRegIv8Zg&s" group-title="Bangladesh",Movie Bangla
+#EXTINF:-1 tvg-id="33" tvg-name="Movie Bangla" group-title="Bangladesh",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="Me TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-TnRKrBcAn3Wg_TNuIbRILQQk5_jlS577w&s" group-title="Bangladesh",Me TV
+#EXTINF:-1 tvg-id="34" tvg-name="Me TV" group-title="Bangladesh",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 tvg-id="35" tvg-name="Deshi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTafxpwguuooaNvSPlORtVlz61sk4bo5Px7w&s" group-title="Bangladesh",Deshi TV
+#EXTINF:-1 tvg-id="35" tvg-name="Deshi TV" group-title="Bangladesh",Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="36" tvg-name="IB TV USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNlpDZh3-PdVGymj4FJRE8HmUjYfTt6VnVsw&s" group-title="Bangladesh",IB TV USA
+#EXTINF:-1 tvg-id="36" tvg-name="IB TV USA" group-title="Bangladesh",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="DBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfnaJoojieUrl7bTMB3XtPc4J4BA8lTOAsQ&s" group-title="Bangladesh",DBC News
+#EXTINF:-1 tvg-id="37" tvg-name="DBC News" group-title="Bangladesh",DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-name="Green TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSbw-eU2s9KOY5LMv3UPiIwIunukNDFjYrtQ&s" group-title="Bangladesh",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="Green TV" group-title="Bangladesh",Green TV
+https://app.ncare.live/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-name="Channel 39" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",Channel 39
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="SRK TV" group-title="Bangladesh",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-name="Channel 40" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",Channel 40
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="Channel A1" group-title="Bangladesh",Channel A1
+https://sonamul3535.vercel.app/Channels-A1.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="Channel 41" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",Channel 41
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Khusbo Bangla" group-title="Bangladesh",Khusbo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="Channel 42" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",Channel 42
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="Probasi TV" group-title="Bangladesh",Probasi TV
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="Channel 43" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",Channel 43
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="T Sports" group-title="Bangladesh",T Sports
+https://backend.plusbox.tv/TSports/tracks-a1/index.fmp4.m3u8?token=092bacc73734cb233d3afb3da63d81a20179fc9f-f14bd2967c10537a0758b41066da1894-1771451952-1771441152
 
-#EXTINF:-1 tvg-id="44" tvg-name="Channel 44" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",Channel 44
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="Madani TV" group-title="Bangladesh",Madani TV
+http://redforce.live:8082/MADANI.TV.HD/tracks-v1a1/mono.m3u8?token=b75d9e383b984681cc9a4df9bdf445280756a4fe-632260867c267fae8e48f145d1a75aaa-1756090319-1756079519
 
-#EXTINF:-1 tvg-id="45" tvg-name="Channel 45" tvg-logo="https://via.placeholder.com/150" group-title="Bangladesh",Channel 45
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-
-
+#EXTINF:-1 tvg-id="45" tvg-name="Peace TV" group-title="Bangladesh",Peace TV
+http://redforce.live:8082/PEACE.TV.BANGLA.HD/tracks-v1a1/mono.m3u8?token=cdac0791986eb79fb67185e0a7e2d56934d3210c-e84b7171948e82da3c00ac950fca35ca-1756090349-1756079549
 
 
 ####################################
@@ -284,4 +279,5 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="90" tvg-name="Channel 90" tvg-logo="https://via.placeholder.com/150" group-title="Indian & Pakistani",POGO
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
+
 
