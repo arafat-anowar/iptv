@@ -105,7 +105,7 @@ http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-name="Green TV" group-title="Bangladesh",Green TV
-https://app.ncare.live/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="IB TV USA" group-title="Bangladesh",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
@@ -129,13 +129,14 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="42" tvg-name="Demo 2" group-title="Reserved",Demo 2
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-name="Demo 3" group-title="Reserved",Demo 3
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="Demo 4" group-title="Reserved",Demo 4
-https://mojenetwork.com/hls/test.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-name="Demo 5" group-title="Reserved",Demo 5
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
