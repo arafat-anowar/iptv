@@ -322,3 +322,5 @@ https://sonamul3535.vercel.app/Nick-Hindi.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-name="Sonic Hindi" group-title="Kids",Sonic Hindi
 https://sonamul3535.vercel.app/Sonic-Hindi.m3u8
 
+#EXTINF:-1 tvg-chno="120" tvg-name="Hungama" group-title="Kids",Hungama
+http://172.20.5.50:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=b428ab35084e3f108abe8262fd5e54d313077268-e1621dfb7fe6e950f5193a847349c214-1771509418-1771498618
