@@ -2,7 +2,7 @@
 
 
 
-#################################### # BANGLADESH CHANNELS (1-45) ####################################
+#################################### # BANGLADESH CHANNELS (1-50) ####################################
 #EXTINF:-1 tvg-chno="1" tvg-name="Sangsad" group-title="Bangladeshi",Sangsad
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 
@@ -133,33 +133,190 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-name="Nagorik TV" group-title="Bangladeshi",Nagorik TV
-http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=406a28cb63b245aa6dedc87254b5daf0f6392c38-aa315ee363fef0be7d62918e4aeb84cd-1756100348-1756089548
+http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=03d5bfa6a249deaf13cd5bc2101a40c02868403c-a1a5223357528876800660eb6a3fa8eb-1756131987-1756121187
 
 #EXTINF:-1 tvg-chno="45" tvg-name="T Sports" group-title="Bangladeshi",T Sports
-http://redforce.live:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=775ef2a267db8535ed97560eb60b8be3b57d2122-367718d19a61c218f20b82d421b3968a-1756100450-1756089650
+https://backend.plusbox.tv/GaziTVHD/index.fmp4.m3u8?token=7e4c4a79f97f6aba54becc717c5a8794821c872e-52a206431bc0b1928d0c9d445c547472-1771493782-1771482982
+
+#EXTINF:-1 tvg-chno="46" tvg-name="Gazi TV" group-title="Bangladeshi",Gazi TV
+https://backend.plusbox.tv/GaziTVHD/index.fmp4.m3u8?token=7e4c4a79f97f6aba54becc717c5a8794821c872e-52a206431bc0b1928d0c9d445c547472-1771493782-1771482982
 
 
-
-#################################### # PAKISTANI CHANNELS (46-52) ####################################
-#EXTINF:-1 tvg-chno="46" tvg-name="HUM TV" group-title="Pakistani",HUM TV
+#################################### # PAKISTANI CHANNELS (51-60) ####################################
+#EXTINF:-1 tvg-chno="51" tvg-name="HUM TV" group-title="Pakistani",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-name="Green Entertainment" group-title="Pakistani",Green Entertainment
+#EXTINF:-1 tvg-chno="52" tvg-name="Green Entertainment" group-title="Pakistani",Green Entertainment
 https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-name="Geo Entertainment" group-title="Pakistani",Geo Entertainment
+#EXTINF:-1 tvg-chno="53" tvg-name="Geo Entertainment" group-title="Pakistani",Geo Entertainment
 https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-name="AAJ Entertainment" group-title="Pakistani",AAJ Entertainment
+#EXTINF:-1 tvg-chno="54" tvg-name="AAJ Entertainment" group-title="Pakistani",AAJ Entertainment
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-name="ARY Digital" group-title="Pakistani",ARY Digital
+#EXTINF:-1 tvg-chno="55" tvg-name="ARY Digital" group-title="Pakistani",ARY Digital
 http://103.229.254.25:7001/play/a07w/index.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-name="ARY Zindagi" group-title="Pakistani",ARY Zindagi
+#EXTINF:-1 tvg-chno="56" tvg-name="ARY Zindagi" group-title="Pakistani",ARY Zindagi
 http://103.229.254.25:7001/play/a07u/index.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-name="ARY News" group-title="Pakistani",ARY News
+#EXTINF:-1 tvg-chno="57" tvg-name="ARY News" group-title="Pakistani",ARY News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 
+
+#################################### # Indian CHANNELS (61-110) ####################################
+#EXTINF:-1 tvg-chno="61" tvg-name="Star Plus HD" group-title="Indian",Star Plus HD
+https://sonamul3535.vercel.app/Star-plus-HD.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-name="Star Bharat HD" group-title="Indian",Star Bharat HD
+https://sonamul3535.vercel.app/Star-bharat-HD.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-name="Star Gold HD" group-title="Indian",Star Gold HD
+https://sonamul3535.vercel.app/Star-gold-hd.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-name="Star Jalsa HD" group-title="Indian",Star Jalsa HD
+http://103.229.254.25:7001/play/a0c0/index.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-name="Jalsha Movies HD" group-title="Indian",Jalsha Movies HD
+https://sonamul3535.vercel.app/Jalsha-movie-HD.m3u8
+
+#EXTINF:-1 tvg-chno="66" tvg-name="Sony Aat" group-title="Indian",Sony Aat
+https://sonamul3535.vercel.app/Sony-aath.m3u8
+
+#EXTINF:-1 tvg-chno="67" tvg-name="Sony Max HD" group-title="Indian",Sony Max HD
+https://sonamul3535.vercel.app/Sony-max-HD.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-name="Sony Max 1" group-title="Indian",Sony Max 1
+https://sonamul3535.vercel.app/Sony-max1.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-name="Sony Max 2" group-title="Indian",Sony Max 2
+https://sonamul3535.vercel.app/Sony-max2.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-name="Sony Television" group-title="Indian",Sony Television
+https://sonamul3535.vercel.app/Sony-HD.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-name="Sony Sab HD" group-title="Indian",Sony Sab HD
+https://sonamul3535.vercel.app/Sony-sab-HD.m3u8
+
+#EXTINF:-1 tvg-chno="72" tvg-name="Sony Television SD" group-title="Indian",Sony Television SD
+https://sonamul3535.vercel.app/Sony-sd.m3u8
+
+#EXTINF:-1 tvg-chno="73" tvg-name="Sony Sab SD" group-title="Indian",Sony Sab SD
+https://sonamul3535.vercel.app/Sony-sab-sd.m3u8
+
+#EXTINF:-1 tvg-chno="74" tvg-name="Sony Pal" group-title="Indian",Sony Pal
+https://sonamul3535.vercel.app/Sony-pal.m3u8
+
+#EXTINF:-1 tvg-chno="75" tvg-name="Sony Yay" group-title="Indian",Sony Yay
+https://sonamul3535.vercel.app/Sony-yay.m3u8
+
+#EXTINF:-1 tvg-chno="76" tvg-name="Sony Wah" group-title="Indian",Sony Wah
+https://sonamul3535.vercel.app/Sony-way.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-name="Colors HD" group-title="Indian",Colors HD
+https://sonamul3535.vercel.app/Colors-hd.m3u8
+
+#EXTINF:-1 tvg-chno="78" tvg-name="Colors Rishtey" group-title="Indian",Colors Rishtey
+https://sonamul3535.vercel.app/Colors-Rishtey.m3u8
+
+#EXTINF:-1 tvg-chno="79" tvg-name="Colors Cineplex" group-title="Indian",Colors Cineplex
+https://sonamul3535.vercel.app/Colors-Sinplex-HD.m3u8
+
+#EXTINF:-1 tvg-chno="80" tvg-name="Colors Cineplex Superhit" group-title="Indian",Colors Cineplex Superhit
+https://sonamul3535.vercel.app/Colors-Sinplex-Superhit.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-name="MTV" group-title="Indian",MTV
+https://sonamul3535.vercel.app/Mtv-hd.m3u8
+
+#EXTINF:-1 tvg-chno="82" tvg-name="&TV" group-title="Indian",&TV
+https://sonamul3535.vercel.app/&tv-sd.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-name="Zee TV" group-title="Indian",Zee TV
+https://sonamul3535.vercel.app/Zee-tv-sd.m3u8
+
+#EXTINF:-1 tvg-chno="84" tvg-name="Zee Cinema HD" group-title="Indian",Zee Cinema HD
+https://sonamul3535.vercel.app/Zee-cinema-HD.m3u8
+
+#EXTINF:-1 tvg-chno="85" tvg-name="&Pictures" group-title="Indian",&Pictures
+https://sonamul3535.vercel.app/&picture-sd.m3u8
+
+#EXTINF:-1 tvg-chno="86" tvg-name="Zee Bollywood" group-title="Indian",Zee Bollywood
+https://sonamul3535.vercel.app/Zee-bollywod.m3u8
+
+#EXTINF:-1 tvg-chno="87" tvg-name="Zoom" group-title="Indian",Zoom
+https://sonamul3535.vercel.app/Zoom-EKTV.m3u8
+
+#EXTINF:-1 tvg-chno="88" tvg-name="Zee Bangla" group-title="Indian",Zee Bangla
+http://103.229.254.25:7001/play/a0c3/index.m3u8
+
+#EXTINF:-1 tvg-chno="89" tvg-name="Sangeed Bangla" group-title="Indian",Sangeed Bangla
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+
+#EXTINF:-1 tvg-chno="90" tvg-name="Goldmines" group-title="Indian",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-chno="91" tvg-name="Goldmines 2" group-title="Indian",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 tvg-chno="92" tvg-name="Goldmines Movies" group-title="Indian",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-chno="93" tvg-name="Hindi Hits" group-title="Indian",Hindi Hits
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+
+#EXTINF:-1 tvg-chno="94" tvg-name="Tseries" group-title="Indian",Tseries
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="95" tvg-name="Enter10Bangla" group-title="Indian",Enter10Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="96" tvg-name="Shemaroo TV" group-title="Indian",Shemaroo TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+
+#EXTINF:-1 tvg-chno="97" tvg-name="Shemaroo Umang" group-title="Indian",Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+
+#EXTINF:-1 tvg-chno="98" tvg-name="Shemaroo Chumbak" group-title="Indian",Shemaroo Chumbak
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="99" tvg-name="Shemaroo Bollywood" group-title="Indian",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-name="Bangla Plus" group-title="Indian",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-name="Colors Bangla HD" group-title="Indian",Colors Bangla HD
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+
+
+
+#################################### # Kids CHANNELS (111-125) ####################################
+#EXTINF:-1 tvg-chno="111" tvg-name="Disney HD" group-title="Kids",Disney HD
+http://103.175.73.12:8080/live/126/126_0.m3u8
+https://sonamul3535.vercel.app/Disney.m3u8
+
+#EXTINF:-1 tvg-chno="112" tvg-name="Disney Jr." group-title="Kids",Disney Jr.
+http://103.175.73.12:8080/live/129/129_0.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-name="POGO" group-title="Kids",POGO
+http://103.229.254.25:7001/play/a0dh/index.m3u8
+
+#EXTINF:-1 tvg-chno="114" tvg-name="Nick Bangla" group-title="Kids",Nick Bangla
+http://103.229.254.25:7001/play/a07b/index.m3u8
+
+#EXTINF:-1 tvg-chno="115" tvg-name="Disney Jr. (Alt)" group-title="Kids",Disney Jr. (Alt)
+http://fl61.moveonjoy.com:80/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-chno="116" tvg-name="Nickelodeon" group-title="Kids",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-chno="117" tvg-name="Super Hungama" group-title="Kids",Super Hungama
+http://103.175.73.12:8080/live/128/128_0.m3u8
+
+#EXTINF:-1 tvg-chno="118" tvg-name="Nick Hindi" group-title="Kids",Nick Hindi
+https://sonamul3535.vercel.app/Nick-Hindi.m3u8
+
+#EXTINF:-1 tvg-chno="119" tvg-name="Sonic Hindi" group-title="Kids",Sonic Hindi
+https://sonamul3535.vercel.app/Sonic-Hindi.m3u8
