@@ -133,13 +133,13 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 #EXTINF:-1 tvg-chno="44" tvg-name="Nagorik TV" group-title="Bangladeshi",Nagorik TV
-http://172.20.5.50:8082/ATN.BANGLA.HD/index.m3u8?token=1f8cd3b27faa646ac7d7f90e0c3ec7c1b0a5521a-ba7514dd866a01c745750a9091e74f8f-1771597743-1771586943&remote=no_check_ip
+http://172.20.5.50:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=190e249d3275ef51dcb024d0cb02deee1c22563d-54bcfa3f5549147f95b65d7c4f958aef-1771683324-1771672524
 
 #EXTINF:-1 tvg-chno="45" tvg-name="T Sports" group-title="Bangladeshi",T Sports
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="46" tvg-name="Gazi TV" group-title="Bangladeshi",Gazi TV
-https://backend.plusbox.tv/GaziTVHD/index.fmp4.m3u8?token=d8e47e9cb7fd7bd6f174cec45072975bcce4e927-a5aec6724a40fa9abb0e1bd80be99c0e-1771597762-1771586962
+https://backend.plusbox.tv/GaziTVHD/index.fmp4.m3u8?token=1bc06a540e3c16bc1ea2a2c7a9e58123f193c9ad-05091118c6c3ac7a488418d60eb3e205-1771683399-1771672599
 
 
 #################################### # PAKISTANI CHANNELS (51-60) ####################################
@@ -322,4 +322,4 @@ https://sonamul3535.vercel.app/Nick-Hindi.m3u8
 https://sonamul3535.vercel.app/Sonic-Hindi.m3u8
 
 #EXTINF:-1 tvg-chno="120" tvg-name="Hungama" group-title="Kids",Hungama
-http://172.20.5.50:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=4b7d4d93599c663a587a8cd64e723987af0fba98-2cbe7bfc691cc34cd85ea5d7c237db84-1771597784-1771586984
+http://172.20.5.50:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=e6f768e421b112c5f92075efc06f1ddf4eb5dcaf-9c12cd53bc67e69a2ee06c1247da539c-1771683431-1771672631
